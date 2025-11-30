@@ -1,1 +1,4 @@
 creating f3.txt
+aadfa modif y b3 on github differene tfrom local repo
+git fetch
+git diff origin/main ...... not working
