@@ -2,3 +2,4 @@ create fmain.txt
 edit fmain on des 2025
 edit on github
 edit local des 2
+edit on b10
